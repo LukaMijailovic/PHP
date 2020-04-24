@@ -1,0 +1,163 @@
+body{
+  background-color: white;
+}
+
+h4{
+  margin-top: 60px;
+}
+
+.picture{
+  width: 250px;
+  height: 180px;
+}
+.products1{
+   padding-left: 100px;
+   padding-top: 20px;
+   margin-left: 180px;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   border-color: black;
+   border-style: solid;
+   border-width: thin;
+   width: 400px;
+   height: 300px;
+   float: left;
+}
+.name{
+  font-size: 20px;
+  padding-left: 1px;
+
+}
+.button{
+  margin-left: 250px;
+  background-color: white;
+  border-color: black;
+  border-width: thin;
+  font-size: 20px;
+  font-family:sans-serif;
+  text-decoration:none;
+  color: black;
+
+}
+
+.button:hover{
+  background-color: black;
+  color: white;
+}
+.price{
+padding-left: 1px;
+
+}
+
+.Shoes{
+  margin-top: 80px;
+  margin-left: 180px;
+  padding-left: 15px;
+  font-size: 50px;
+  font-family: lucida;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  width: 160px;
+}
+
+.nav-link{
+  float: left;
+  margin-left: 50px;
+  color: black;
+  text-decoration: none;
+  font-family: lucida;
+  font-size: 20px;
+}
+
+.nav-links{
+  margin-left:900px;
+
+}
+
+.drops-link{
+  margin-left: 50px;
+  margin-top: 50px;
+  color: black;
+  text-decoration: none;
+  font-family: lucida;
+  font-size: 20px;
+  width: 50px;
+}
+
+.top{
+  /* border: solid black thin; */
+  height: 50px;
+}
+
+.line{
+  border: solid black 0.5px;
+  width: 100%;
+}
+
+.productpicture{
+  width: 250px;
+  height: 180px;
+}
+
+.products2{
+  float: left;
+}
+
+.products3{
+  margin-left: 50px;
+  margin-top: 70px;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  height: 500px;
+  width: 1400px;
+}
+
+.productimage{
+  height: 450px;
+  width: 650px;
+  float: left;
+  padding-top: 40px;
+}
+.button1{
+  margin-top:30px;
+}
+.name1{
+  font-size: 50px;
+}
+
+.price1{
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+.description1{
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.text1{
+  margin-top: 10px;
+}
+
+.button1{
+  background-color: white;
+  border-color: black;
+  border-width: thin;
+  font-size: 20px;
+  font-family:sans-serif;
+  text-decoration:none;
+  color: black;
+}
+
+.button1:hover{
+  background-color: black;
+  color: white;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
